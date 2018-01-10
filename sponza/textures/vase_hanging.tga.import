@@ -6,7 +6,11 @@ path.s3tc="res://.import/vase_hanging.tga-3f3a1d947f5af4e97d7501dff318b9f0.s3tc.
 
 [deps]
 
+source_file="res://sponza/textures/vase_hanging.tga"
 source_md5="db6108671a9d349f021781fea6dd6118"
+
+dest_files=[ "res://.import/vase_hanging.tga-3f3a1d947f5af4e97d7501dff318b9f0.s3tc.stex" ]
+dest_md5="9149541fc678f52c0fc1917be0bd186e"
 
 [params]
 

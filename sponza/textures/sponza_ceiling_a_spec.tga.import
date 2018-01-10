@@ -6,7 +6,11 @@ path="res://.import/sponza_ceiling_a_spec.tga-9298394498d9b75ecd761795028428a7.s
 
 [deps]
 
+source_file="res://sponza/textures/sponza_ceiling_a_spec.tga"
 source_md5="fb6bbc88f14d93145d1e2698cf45aefc"
+
+dest_files=[ "res://.import/sponza_ceiling_a_spec.tga-9298394498d9b75ecd761795028428a7.stex" ]
+dest_md5="ad561b11bb1c1f1a0ae3925b6bb7de1c"
 
 [params]
 

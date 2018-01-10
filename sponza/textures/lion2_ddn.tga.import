@@ -6,7 +6,11 @@ path="res://.import/lion2_ddn.tga-94eb28f3e2629a225d67f03a46d11e9f.stex"
 
 [deps]
 
+source_file="res://sponza/textures/lion2_ddn.tga"
 source_md5="74950ddef2734c69492c20c7e277ea81"
+
+dest_files=[ "res://.import/lion2_ddn.tga-94eb28f3e2629a225d67f03a46d11e9f.stex" ]
+dest_md5="08dbb29c6affa9da3d9032d92bb5744b"
 
 [params]
 

@@ -6,7 +6,11 @@ path.s3tc="res://.import/sponza_column_b_diff.tga-7171ec39a67ecd6657a7abf2b3645d
 
 [deps]
 
+source_file="res://sponza/textures/sponza_column_b_diff.tga"
 source_md5="e3e688c82ee90c4b087195cf086f22eb"
+
+dest_files=[ "res://.import/sponza_column_b_diff.tga-7171ec39a67ecd6657a7abf2b3645d3f.s3tc.stex" ]
+dest_md5="84e233418b76ab14f777ca14c8b447ed"
 
 [params]
 

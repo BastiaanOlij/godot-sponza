@@ -52,3 +52,16 @@ MIT license, see [LICENSE.md](LICENSE.md) for more information.
   the SIL OFL 1.1, see [fonts/LICENSE.txt](fonts/LICENSE.txt) for more information.
 - The [Crytek Sponza](http://www.crytek.com/cryengine/cryengine3/downloads/)
   assets are under the public domain.
+  - The [OpenVR DLLs](https://github.com/ValveSoftware/openvr) are copyright Valve. Follow the link for more info.
+
+## Notes on VR
+
+If you're reading this you're looking at the version enhanced by Bastiaan Olij a.k.a. Mux213 to use the Godot OpenVR driver to show this demo in VR.
+You can find a video on porting this demo to VR here:
+https://www.youtube.com/watch?v=hUr9fQNXdUk
+
+The current repository has moved on from that video using newer versions of the drivers that you can find in the add-ons folder.
+
+You will need a recent 3.1 build to run the project. Also I'm assuming this PR is included:
+https://github.com/godotengine/godot/pull/19724
+If not, simply change the initialisation to not turn on rgba8_out but instead turn off hdr.

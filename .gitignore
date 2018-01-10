@@ -6,3 +6,7 @@ logs/
 
 # Exported files
 dist/
+
+# Some windows things
+Thumbs.db
+*.tmp

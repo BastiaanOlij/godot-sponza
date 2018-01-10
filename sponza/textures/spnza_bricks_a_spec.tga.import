@@ -6,7 +6,11 @@ path="res://.import/spnza_bricks_a_spec.tga-4ae1131baf08b96a76c07f8b6704b7f0.ste
 
 [deps]
 
+source_file="res://sponza/textures/spnza_bricks_a_spec.tga"
 source_md5="d110459baab9c01eb406455dc92ac26f"
+
+dest_files=[ "res://.import/spnza_bricks_a_spec.tga-4ae1131baf08b96a76c07f8b6704b7f0.stex" ]
+dest_md5="262cc2a83a50014e423fdf266ec5e86d"
 
 [params]
 

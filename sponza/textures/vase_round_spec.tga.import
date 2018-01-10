@@ -6,7 +6,11 @@ path="res://.import/vase_round_spec.tga-bb7b0c8162091e52a24ce22094adca32.stex"
 
 [deps]
 
+source_file="res://sponza/textures/vase_round_spec.tga"
 source_md5="06e6ee9a3888d265e63faf26c881f4c8"
+
+dest_files=[ "res://.import/vase_round_spec.tga-bb7b0c8162091e52a24ce22094adca32.stex" ]
+dest_md5="3b36d53cef4112bf4a80fcb51b41e4ff"
 
 [params]
 

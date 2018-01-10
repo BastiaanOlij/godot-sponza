@@ -6,7 +6,11 @@ path="res://.import/sponza_column_c_spec.tga-9afb28bbeda810ea140f560af1078714.st
 
 [deps]
 
+source_file="res://sponza/textures/sponza_column_c_spec.tga"
 source_md5="20dac8637b188ffdd17e82f9697f6114"
+
+dest_files=[ "res://.import/sponza_column_c_spec.tga-9afb28bbeda810ea140f560af1078714.stex" ]
+dest_md5="60bc84d9e5392fcaff1033b90a3b5c4b"
 
 [params]
 

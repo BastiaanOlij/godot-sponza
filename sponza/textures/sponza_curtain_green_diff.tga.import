@@ -6,7 +6,11 @@ path.s3tc="res://.import/sponza_curtain_green_diff.tga-f1bc984d9ca3c037ecd83b635
 
 [deps]
 
+source_file="res://sponza/textures/sponza_curtain_green_diff.tga"
 source_md5="286c9af09238be42034ea99f63fa8697"
+
+dest_files=[ "res://.import/sponza_curtain_green_diff.tga-f1bc984d9ca3c037ecd83b635b7647a2.s3tc.stex" ]
+dest_md5="b3e2a6d52c863de07f2e0503dcea05be"
 
 [params]
 

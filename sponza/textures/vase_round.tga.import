@@ -6,7 +6,11 @@ path.s3tc="res://.import/vase_round.tga-bd601a53ca57273135fcb7d287048dcd.s3tc.st
 
 [deps]
 
+source_file="res://sponza/textures/vase_round.tga"
 source_md5="3a6b31d56addcd04cbc9adf7a997031d"
+
+dest_files=[ "res://.import/vase_round.tga-bd601a53ca57273135fcb7d287048dcd.s3tc.stex" ]
+dest_md5="7d405d04b40dcc1581f575fea11a063c"
 
 [params]
 

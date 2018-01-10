@@ -6,7 +6,11 @@ path="res://.import/chain_texture_mask.tga-e99c46402b9aa59444dec6be167869da.stex
 
 [deps]
 
+source_file="res://sponza/textures/chain_texture_mask.tga"
 source_md5="b76b821285aaa6f1117e0dca2fb42f17"
+
+dest_files=[ "res://.import/chain_texture_mask.tga-e99c46402b9aa59444dec6be167869da.stex" ]
+dest_md5="1dd3025a8f4750c243cd8a40f1d9d778"
 
 [params]
 

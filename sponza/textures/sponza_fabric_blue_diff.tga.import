@@ -6,7 +6,11 @@ path.s3tc="res://.import/sponza_fabric_blue_diff.tga-5fb5d9c72b94fb2cbc785fb86a6
 
 [deps]
 
+source_file="res://sponza/textures/sponza_fabric_blue_diff.tga"
 source_md5="1441f274d9303e6a339cb1ab00cb4fad"
+
+dest_files=[ "res://.import/sponza_fabric_blue_diff.tga-5fb5d9c72b94fb2cbc785fb86a623bb7.s3tc.stex" ]
+dest_md5="ed28870c1af78724ff8abd9403d3250a"
 
 [params]
 

@@ -6,7 +6,11 @@ path.s3tc="res://.import/lion_ddn.tga-c935dba368adfccf52e4721fc2378deb.s3tc.stex
 
 [deps]
 
+source_file="res://sponza/textures/lion_ddn.tga"
 source_md5="cc39f747699e9b5d4c349414fb04e2b7"
+
+dest_files=[ "res://.import/lion_ddn.tga-c935dba368adfccf52e4721fc2378deb.s3tc.stex" ]
+dest_md5="ddd6bf1f165bf462022cd63dfce1e3d1"
 
 [params]
 

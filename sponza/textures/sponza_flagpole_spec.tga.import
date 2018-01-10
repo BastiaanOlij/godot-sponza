@@ -6,7 +6,11 @@ path="res://.import/sponza_flagpole_spec.tga-5214434e8f6544708dcd339654ff60bf.st
 
 [deps]
 
+source_file="res://sponza/textures/sponza_flagpole_spec.tga"
 source_md5="2ecd1b31e7b299515c09ae39116ad373"
+
+dest_files=[ "res://.import/sponza_flagpole_spec.tga-5214434e8f6544708dcd339654ff60bf.stex" ]
+dest_md5="d5f6c3afa9014a49776788c552b3503f"
 
 [params]
 

@@ -6,7 +6,11 @@ path.s3tc="res://.import/sponza_floor_a_diff.tga-f85e4f35472f7fc77501c056c5df0f9
 
 [deps]
 
+source_file="res://sponza/textures/sponza_floor_a_diff.tga"
 source_md5="3548751981ee0bdd76a7d51cc343e76f"
+
+dest_files=[ "res://.import/sponza_floor_a_diff.tga-f85e4f35472f7fc77501c056c5df0f9f.s3tc.stex" ]
+dest_md5="2cbfe27697f018c39d869f13ce6e84a2"
 
 [params]
 

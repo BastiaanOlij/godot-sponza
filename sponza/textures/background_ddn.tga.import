@@ -6,7 +6,11 @@ path.s3tc="res://.import/background_ddn.tga-c1c40f27c90614baffe49d30f81641f5.s3t
 
 [deps]
 
+source_file="res://sponza/textures/background_ddn.tga"
 source_md5="c60c8c7fb426247396fc5327c196c620"
+
+dest_files=[ "res://.import/background_ddn.tga-c1c40f27c90614baffe49d30f81641f5.s3tc.stex" ]
+dest_md5="55d06213406aededf442009373fecf7e"
 
 [params]
 
